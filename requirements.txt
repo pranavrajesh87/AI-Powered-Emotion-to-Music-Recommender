@@ -1,0 +1,7 @@
+streamlit
+deepface
+spotipy
+langchain-groq
+tensorflow
+numpy
+pillow
